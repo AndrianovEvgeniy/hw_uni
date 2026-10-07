@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/ACM.BL/">
+    <Project Path="ACM.BL/CMS.BusinessLayer.csproj" />
+  </Folder>
+  <Folder Name="/ACM.BLTest/">
+    <Project Path="ACM.BLTest/CMS.BusinessLayerTest.csproj" />
+  </Folder>
+</Solution>
